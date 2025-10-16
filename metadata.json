@@ -1,0 +1,5 @@
+{
+  "name": "TeleBot Pro Manager",
+  "description": "An advanced dashboard to manage and configure your Telegram bot. Set up custom commands, manage users and files, and perform administrative actions with a clean, intuitive interface powered by AI enhancements.",
+  "requestFramePermissions": []
+}
